@@ -1,0 +1,37 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "space": {
+    "space": {
+      "component": {
+        "gap": {
+          "none": {
+            "value": "{dimension.spacing.0}",
+            "type": "space"
+          },
+          "sm": {
+            "value": "{dimension.spacing.8}",
+            "type": "space"
+          },
+          "xs": {
+            "value": "{dimension.spacing.4}",
+            "type": "space"
+          }
+        },
+        "padding": {
+          "none": {
+            "value": "{dimension.spacing.0}",
+            "type": "space"
+          },
+          "sm": {
+            "value": "{dimension.spacing.8}",
+            "type": "space"
+          },
+          "xs": {
+            "value": "{dimension.spacing.4}",
+            "type": "space"
+          }
+        }
+      }
+    }
+  }
+}

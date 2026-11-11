@@ -1,0 +1,138 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "typography": {
+    "m3": {
+      "body": {
+        "large": {
+          "value": "{string.static.body-large.weight} {dimension.static.body-large.size}/{dimension.static.body-large.line-height} {string.static.body-large.font}",
+          "type": "typography"
+        },
+        "large-emphasized": {
+          "value": "{string.static.body-large.weight-emphasized} {dimension.static.body-large.size}/{dimension.static.body-large.line-height} {string.static.body-large.font}",
+          "type": "typography"
+        },
+        "medium": {
+          "value": "{string.static.body-medium.weight} {dimension.static.body-medium.size}/{dimension.static.body-medium.line-height} {string.static.body-medium.font}",
+          "type": "typography"
+        },
+        "medium-emphasized": {
+          "value": "{string.static.body-medium.weight-emphasized} {dimension.static.body-medium.size}/{dimension.static.body-medium.line-height} {string.static.body-medium.font}",
+          "type": "typography"
+        },
+        "small": {
+          "value": "{string.static.body-small.weight} {dimension.static.body-small.size}/{dimension.static.body-small.line-height} {string.static.body-small.font}",
+          "type": "typography",
+          "description": "0.4"
+        },
+        "small-emphasized": {
+          "value": "{string.static.body-small.weight-emphasized} {dimension.static.body-small.size}/{dimension.static.body-small.line-height} {string.static.body-small.font}",
+          "type": "typography"
+        }
+      },
+      "display": {
+        "large": {
+          "value": "{string.static.display-large.weight} {dimension.static.display-large.size}/{dimension.static.display-large.line-height} {string.static.display-large.font}",
+          "type": "typography"
+        },
+        "large-emphasized": {
+          "value": "{string.static.display-medium.weight-emphasized} {dimension.static.display-large.size}/{dimension.static.display-large.line-height} {string.static.display-large.font}",
+          "type": "typography"
+        },
+        "medium": {
+          "value": "{string.static.display-medium.weight} {dimension.static.display-medium.size}/{dimension.static.display-medium.line-height} {string.static.display-medium.font}",
+          "type": "typography"
+        },
+        "medium-emphasized": {
+          "value": "{string.static.display-medium.weight-emphasized} {dimension.static.display-medium.size}/{dimension.static.display-medium.line-height} {string.static.display-medium.font}",
+          "type": "typography"
+        },
+        "small": {
+          "value": "{string.static.display-small.weight} {dimension.static.display-small.size}/{dimension.static.display-small.line-height} {string.static.display-small.font}",
+          "type": "typography"
+        },
+        "small-emphasized": {
+          "value": "{string.static.display-small.weight-emphasized} {dimension.static.display-small.size}/{dimension.static.display-small.line-height} {string.static.display-small.font}",
+          "type": "typography"
+        }
+      },
+      "headline": {
+        "large": {
+          "value": "{string.static.headline-large.weight} {dimension.static.headline-large.size}/{dimension.static.headline-large.line-height} {string.static.headline-large.font}",
+          "type": "typography"
+        },
+        "large-emphasized": {
+          "value": "{string.static.headline-large.weight-emphasized} {dimension.static.headline-large.size}/{dimension.static.headline-large.line-height} {string.static.headline-large.font}",
+          "type": "typography"
+        },
+        "medium": {
+          "value": "{string.static.headline-medium.weight} {dimension.static.headline-medium.size}/{dimension.static.headline-medium.line-height} {string.static.headline-medium.font}",
+          "type": "typography"
+        },
+        "medium-emphasized": {
+          "value": "{string.static.headline-medium.weight-emphasized} {dimension.static.headline-medium.size}/{dimension.static.headline-medium.line-height} {string.static.headline-medium.font}",
+          "type": "typography"
+        },
+        "small": {
+          "value": "{string.static.headline-small.weight} {dimension.static.headline-small.size}/{dimension.static.headline-small.line-height} {string.static.headline-small.font}",
+          "type": "typography"
+        },
+        "small-emphasized": {
+          "value": "{string.static.headline-small.weight-emphasized} {dimension.static.headline-small.size}/{dimension.static.headline-small.line-height} {string.static.headline-small.font}",
+          "type": "typography"
+        }
+      },
+      "label": {
+        "large": {
+          "value": "{string.static.label-large.weight} {dimension.static.label-large.size}/{dimension.static.label-large.line-height} {string.static.label-large.font}",
+          "type": "typography"
+        },
+        "large-emphasized": {
+          "value": "{string.static.label-large.weight-emphasized} {dimension.static.label-large.size}/{dimension.static.label-large.line-height} {string.static.label-large.font}",
+          "type": "typography"
+        },
+        "medium": {
+          "value": "{string.static.label-medium.weight} {dimension.static.label-medium.size}/{dimension.static.label-medium.line-height} {string.static.label-medium.font}",
+          "type": "typography"
+        },
+        "medium-emphasized": {
+          "value": "{string.static.label-medium.weight-emphasized} {dimension.static.label-medium.size}/{dimension.static.label-medium.line-height} {string.static.label-medium.font}",
+          "type": "typography"
+        },
+        "small": {
+          "value": "{string.static.label-small.weight} {dimension.static.label-small.size}/{dimension.static.label-small.line-height} {string.static.label-small.font}",
+          "type": "typography"
+        },
+        "small-emphasized": {
+          "value": "{string.static.label-small.weight-emphasized} {dimension.static.label-small.size}/{dimension.static.label-small.line-height} {string.static.label-small.font}",
+          "type": "typography"
+        }
+      },
+      "title": {
+        "large": {
+          "value": "{string.static.title-large.weight} {dimension.static.title-large.size}/{dimension.static.title-large.line-height} {string.static.title-large.font}",
+          "type": "typography"
+        },
+        "large-emphasized": {
+          "value": "{string.static.title-large.weight-emphasized} {dimension.static.title-large.size}/{dimension.static.title-large.line-height} {string.static.title-large.font}",
+          "type": "typography"
+        },
+        "medium": {
+          "value": "{string.static.title-medium.weight} {dimension.static.title-medium.size}/{dimension.static.title-medium.line-height} {string.static.title-medium.font}",
+          "type": "typography"
+        },
+        "medium-emphasized": {
+          "value": "{string.static.title-medium.weight-emphasized} {dimension.static.title-medium.size}/{dimension.static.title-medium.line-height} {string.static.title-medium.font}",
+          "type": "typography"
+        },
+        "small": {
+          "value": "{string.static.title-small.weight} {dimension.static.title-small.size}/{dimension.static.title-small.line-height} {string.static.title-small.font}",
+          "type": "typography"
+        },
+        "small-emphasized": {
+          "value": "{string.static.title-small.weight-emphasized} {dimension.static.title-small.size}/{dimension.static.title-small.line-height} {string.static.title-small.font}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}
