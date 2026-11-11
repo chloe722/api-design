@@ -1,0 +1,247 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "string": {
+    "font-family": {
+      "rethera-sans": {
+        "value": "Rethera Sans",
+        "type": "string"
+      }
+    },
+    "static": {
+      "body-large": {
+        "font": {
+          "value": "{string.static.font.plain}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "body-medium": {
+        "font": {
+          "value": "{string.static.font.plain}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "body-small": {
+        "font": {
+          "value": "{string.static.font.plain}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "display-large": {
+        "font": {
+          "value": "{string.static.font.brand}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "display-medium": {
+        "font": {
+          "value": "{string.static.font.brand}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "display-small": {
+        "font": {
+          "value": "{string.static.font.brand}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "font": {
+        "brand": {
+          "value": "Rethera Sans",
+          "type": "string"
+        },
+        "plain": {
+          "value": "Rethera Sans",
+          "type": "string"
+        }
+      },
+      "headline-large": {
+        "font": {
+          "value": "{string.static.font.brand}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "headline-medium": {
+        "font": {
+          "value": "{string.static.font.brand}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "headline-small": {
+        "font": {
+          "value": "{string.static.font.brand}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "label-large": {
+        "font": {
+          "value": "{string.static.font.plain}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.bold}",
+          "type": "string"
+        }
+      },
+      "label-medium": {
+        "font": {
+          "value": "{string.static.font.plain}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.bold}",
+          "type": "string"
+        }
+      },
+      "label-small": {
+        "font": {
+          "value": "{string.static.font.plain}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.bold}",
+          "type": "string"
+        }
+      },
+      "title-large": {
+        "font": {
+          "value": "{string.static.font.brand}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.regular}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        }
+      },
+      "title-medium": {
+        "font": {
+          "value": "{string.static.font.plain}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.bold}",
+          "type": "string"
+        }
+      },
+      "title-small": {
+        "font": {
+          "value": "{string.static.font.plain}",
+          "type": "string"
+        },
+        "weight": {
+          "value": "{string.static.weight.medium}",
+          "type": "string"
+        },
+        "weight-emphasized": {
+          "value": "{string.static.weight.bold}",
+          "type": "string"
+        }
+      },
+      "weight": {
+        "bold": {
+          "value": "600",
+          "type": "string"
+        },
+        "medium": {
+          "value": "500",
+          "type": "string"
+        },
+        "regular": {
+          "value": "400",
+          "type": "string"
+        }
+      }
+    }
+  }
+}
